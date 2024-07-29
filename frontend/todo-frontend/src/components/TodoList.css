@@ -64,6 +64,13 @@
     color: #666;
 }
 
+.todo-list li img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
 .todo-list li button {
     padding: 5px 10px;
     background-color: #dc3545;
